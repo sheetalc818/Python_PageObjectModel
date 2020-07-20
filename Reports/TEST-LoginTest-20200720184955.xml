@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" file=".py" name="LoginTest-20200720184955" skipped="0" tests="1" time="17.548" timestamp="2020-07-20T18:50:21">
+	<testcase classname="LoginTest" file="login_test.py" line="25" name="test_login" time="17.548" timestamp="2020-07-20T18:50:21">
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>
